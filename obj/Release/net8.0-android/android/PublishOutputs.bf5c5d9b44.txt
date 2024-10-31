@@ -1,0 +1,4 @@
+/home/vickttor/Desktop/projects/maui/bin/Release/net8.0-android/android/publish/com.companyname.maui-Signed.aab
+/home/vickttor/Desktop/projects/maui/bin/Release/net8.0-android/android/publish/com.companyname.maui.aab
+/home/vickttor/Desktop/projects/maui/bin/Release/net8.0-android/android/publish/com.companyname.maui-Signed.apk
+/home/vickttor/Desktop/projects/maui/bin/Release/net8.0-android/android/publish/_Microsoft.Android.Resource.Designer.dll
